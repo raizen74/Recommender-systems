@@ -3,7 +3,7 @@ Recommender systems on the movielens dataset implemented in Python. I implemente
 
 - Non personalized
 
-- Content based
+- Content based, a Naive Bayes spam filter is also implemented.
 
 - Colaborative filtering
 
